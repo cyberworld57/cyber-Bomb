@@ -74,8 +74,8 @@ sudo bash TBomb.sh
 
 
 ```
-                 Mail: ggspeedx29@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/GyanaTech
+                 Mail: cyberworld5758@gmail.com<br>
+       
 ```
 
-<a href="">Check Out My YouTube Channel</a>
+<a href="https://www.youtube.com/channel/UCfOOJwgmTC2clMOTpDSYchA?app=desktop">Check Out My YouTube Channel</a>
