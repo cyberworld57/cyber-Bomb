@@ -1,8 +1,8 @@
 #!/bin/bash
 clear
-echo -e "\e[4;31m SpeedX Productions !!! \e[0m"
+echo -e "\e[4;31m cyber world Productions !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
-echo -e "\e[1;32m TBomb \e[0m"
+echo -e "\e[1;32m cyber bomb \e[0m"
 echo "Press Enter To Continue"
 read a1
 if [[ -s update.speedx ]];then
@@ -24,9 +24,9 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet TBomb
+figlet cyber bomb
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border SpeedX
+toilet -f mono12 -F border Cyber World
 echo -e "\e[4;34m This Bomber Was Created By Cyber World \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail:cyberworld5758@gmail.com\e[0m"
